@@ -23,3 +23,8 @@ Da uma olhada na aba [Releases](https://github.com/imersao-alura/aluraflix/relea
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
+
+# Versão Louiflix
+
+- [ ]  Customizar Leiaute
+- [ ]  API Youtube
